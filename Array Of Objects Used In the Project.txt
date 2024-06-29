@@ -88,22 +88,22 @@ const companies = [
     {
       id: 1,
       title: "Microsoft",
-      location: "Street 10 Karachi, Pakistan",
-      openPositions: 10,
+      location: "Commerzone IT Park, Pune",
+      openPositions: 11,
       icon: <FaMicrosoft />,
     },
     {
       id: 2,
       title: "Tesla",
-      location: "Street 10 Karachi, Pakistan",
-      openPositions: 5,
+      location: "Technopolis IT Hub, Noida",
+      openPositions: 3,
       icon: <SiTesla />,
     },
     {
       id: 3,
       title: "Apple",
-      location: "Street 10 Karachi, Pakistan",
-      openPositions: 20,
+      location: "Vasanth Nagar, Bengaluru",
+      openPositions: 7,
       icon: <FaApple />,
     },
   ];
